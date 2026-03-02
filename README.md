@@ -63,15 +63,6 @@ I’m **Christian** — I like making tech **reliable, understandable, and actua
 ## 🤝 Connect
 
 - **GitHub**: [@ChrisB0617](https://github.com/ChrisB0617)
-- **Best way to reach me**: (Chrisbutler0617@gmail.comn/ <div align="center">
+- **Best way to reach me**: (Chrisbutler0617@gmail.com/ <div align="center">
 
-![Animated pixel waterfall banner](https://raw.githubusercontent.com/ChrisB0617/aboutme/main/assets/pixel-waterfall.svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ChrisB0617-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisB0617)
-![Profile](https://img.shields.io/badge/About%20Me-aboutme-8B0000?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-ITIL-FFD700?style=for-the-badge)
-
-![Animated terminal card](https://raw.githubusercontent.com/ChrisB0617/aboutme/main/assets/terminal-card.svg)
-
-</div>
 
