@@ -39,14 +39,6 @@ I'm **Christian** — I like making tech **reliable, understandable, and actuall
 | **Cloud / ops** | CI/CD basics, deployment workflows (learning & building) |
 | **Strengths** | problem-solving, learning quickly, never a stranger to trial and error |
 
----
-
-## 📈 GitHub snapshot
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisB0617&show_icons=true&theme=default&hide_border=true" width="48%" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisB0617&layout=compact&theme=default&hide_border=true" width="48%" align="right" />
-
-<br clear="both" />
 
 ## 🚀 Projects
 
@@ -54,7 +46,7 @@ I'm **Christian** — I like making tech **reliable, understandable, and actuall
 
 [![Beginner-Friendly Networking Lab](https://github-readme-stats.vercel.app/api/pin/?username=ChrisB0617&repo=beginner-friendly-networking-lab&theme=default&hide_border=true)](https://github.com/ChrisB0617/beginner-friendly-networking-lab)
 
-Hands-on labs for anyone switching into tech or digging into networking. Covers IP addressing, VLANs, basic routing, and how traffic actually moves—no fluff. Labs use Packet Tracer, GNS3, or real gear. Walk-throughs include:
+Hands-on labs for anyone switching into tech or digging into networking. Covers IP addressing, VLANs, basic routing, and how traffic actually moves no fluff. Labs use Packet Tracer, GNS3, or real gear. Walk-throughs include:
 
 - **Lab 1** — Build your first network (router vs switch, static IPs, ping)
 - **Lab 2** — VLANs: segmentation, trunk ports, inter-VLAN routing
