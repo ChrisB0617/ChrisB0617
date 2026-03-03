@@ -50,6 +50,8 @@ I'm **Christian** — I like making tech **reliable, understandable, and actuall
 
 ## 🚀 Projects
 
+<img src="https://raw.githubusercontent.com/ChrisB0617/ChrisB0617/main/assets/networking-lab-icon.png" width="32" height="32" /> **[Beginner-Friendly Networking Lab](https://github.com/ChrisB0617/beginner-friendly-networking-lab)**
+
 [![Beginner-Friendly Networking Lab](https://github-readme-stats.vercel.app/api/pin/?username=ChrisB0617&repo=beginner-friendly-networking-lab&theme=default&hide_border=true)](https://github.com/ChrisB0617/beginner-friendly-networking-lab)
 
 Hands-on labs for anyone switching into tech or digging into networking. Covers IP addressing, VLANs, basic routing, and how traffic actually moves—no fluff. Labs use Packet Tracer, GNS3, or real gear. Walk-throughs include:
@@ -64,5 +66,4 @@ Hands-on labs for anyone switching into tech or digging into networking. Covers 
 
 - **GitHub**: [@ChrisB0617](https://github.com/ChrisB0617)
 - **Best way to reach me**: Chrisbutler0617@gmail.com
-
 
