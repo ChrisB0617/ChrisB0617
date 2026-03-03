@@ -39,7 +39,7 @@ I’m **Christian** — I like making tech **reliable, understandable, and actua
 | **Languages** | Python, JavaScript, C++ (projects/scripts) |
 | **Data** | SQL basics, working with databases |
 | **Cloud / ops** | CI/CD basics, deployment workflows (learning & building) |
-| **Strengths** | problem-solving, staying calm under pressure, learning quickly |
+| **Strengths** | problem-solving,  learning quickly, never a stranger to trial and error |
 
 ---
 
@@ -56,7 +56,7 @@ I’m **Christian** — I like making tech **reliable, understandable, and actua
 
 ## 🚀 Projects
 
-- I pin my best work on my GitHub profile. I keep this section updated with short, clear summaries.
+
 
 ---
 
