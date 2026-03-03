@@ -1,7 +1,7 @@
 ![Animated pixel waterfall banner](https://raw.githubusercontent.com/ChrisB0617/aboutme/main/assets/pixel-waterfall.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChrisB0617-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisB0617)
-![Profile](https://img.shields.io/badge/About%20Me-aboutme-8B0000?style=for-the-badge)
+![Profile](https://img.shields.io/badge/About%20Me-ReadytoLearn-8B0000?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-ITIL-FFD700?style=for-the-badge)
 
 ![Animated terminal card](https://raw.githubusercontent.com/ChrisB0617/aboutme/main/assets/terminal-card.svg)
